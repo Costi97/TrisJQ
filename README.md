@@ -1,2 +1,2 @@
 # TrisJQ
-A simple tris using jquery
+A simple tris using jquery and Cordova
